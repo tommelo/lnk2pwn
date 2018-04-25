@@ -5,9 +5,10 @@ Malicious Shortcut(.lnk) Generator
 **lnk2pwn** is a cli tool that automates the process of generating malicious .lnk(Windows shortcut) files.
 
 ## Installation
-lnk2pwn requires **wine** to create a Windows shortcut:
+lnk2pwn requires **python2.7** and **wine** to create a Windows shortcut:
 
 ```shell
+sudo apt-get install python2.7
 sudo apt-get install wine
 ```
 You can get the lastest version by clonning this repository:
