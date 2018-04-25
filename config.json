@@ -1,0 +1,18 @@
+{
+    "shortcut": {
+        "target_path": "C:\\Windows\\System32\\cmd.exe",
+        "working_dir": "C:\\Windows\\System32",
+        "arguments": "/c notepad.exe",
+        "icon_path": "C:\\Windows\\System32\\notepad.exe",
+        "icon_index": null,
+        "window_style": "MINIMIZED",
+        "description": "lnk2pwn",
+        "fake_extension": ".txt",
+        "file_name_prefix": "lnk2pwn"
+    },
+
+    "elevated_uac": {
+        "file_name": "uac_bypass.vbs",
+        "cmd": "cmd.exe"
+    }
+}
