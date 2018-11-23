@@ -1,3 +1,6 @@
+# Deprecated
+This tool is no longer mantainded and it has been moved to a new repository: https://github.com/it-gorillaz/lnk2pwn
+
 # lnk2pwn
 Malicious Shortcut(.lnk) Generator
 
